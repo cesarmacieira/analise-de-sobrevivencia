@@ -16,14 +16,6 @@ develop-eggs/
 dist/
 downloads/
 extras/
-modelos-treinados-pm/
-modelos-treinados-cdp/
-modelos-treinados-cq/
-modelos-treinados-pm-2/
-modelos-treinados-cdp-2/
-modelos-treinados-cq-2/
-scripts-treino/Funções para verificar funcionamento - pickle e bz2.ipynb
-scripts-treino/Carregar modelos e salvar de modo completo - xgb e bz2.ipynb
 tmp/
 eggs/
 .eggs/
